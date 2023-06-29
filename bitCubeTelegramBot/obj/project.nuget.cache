@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rbtLCLxNyuNbYkVSeWJHRQa5I92MnUyuTOApTs5FyUnSWMZO75UseQpJ5SgFuDTUzwgRpUcwUCBIR2boqqPExA==",
+  "success": true,
+  "projectFilePath": "/Users/douglassantana/Desktop/bitCubeTelegramBot/bitCubeTelegramBot/bitCubeTelegramBot.csproj",
+  "expectedPackageFiles": [
+    "/Users/douglassantana/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/douglassantana/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
